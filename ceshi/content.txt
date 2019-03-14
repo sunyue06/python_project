@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Fri, 15 Feb 2019 02:22:05 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Location: http://www.sina.com.cn/
+Expires: Fri, 15 Feb 2019 02:24:05 GMT
+Cache-Control: max-age=120
+Age: 0
+Via: http/1.1 cnc.beixian.ha2ts4.214 (ApacheTrafficServer/6.2.1 [cSsSfU])
+X-Cache: HIT.214
+X-Via-CDN: f=edge,s=cnc.beixian.ha2ts4.213.nb.sinaedge.com,c=111.200.33.193;f=Edge,s=cnc.beixian.ha2ts4.214,c=123.126.157.213
+X-Via-Edge: 1550197325096c121c86fde9d7e7b3195047b
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
